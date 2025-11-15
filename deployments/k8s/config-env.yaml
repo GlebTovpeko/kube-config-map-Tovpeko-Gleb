@@ -5,4 +5,5 @@ metadata:
   namespace: sirius
 data:
   APP_NAME: "Название приложения"
-  LOG_LEVEL: INFO
+  LOG_LEVEL: "INFO"
+  BIND_PORT: "8081"
